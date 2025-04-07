@@ -6,9 +6,11 @@ An advanced experimental framework for optimizing user conversion through statis
 [![MongoDB](https://img.shields.io/badge/MongoDB-4.4+-green.svg)](https://www.mongodb.com/)
 [![Dash](https://img.shields.io/badge/Dash-2.6+-orange.svg)](https://dash.plotly.com/)
 
-
+Demographics tab
 ![UI-Demographics Tab](screenshots/screenshot1.png)
+Experiment Tab
 ![UI-Experiment Tab](screenshots/screenshot2.png)
+
 ## Overview
 
 This platform implements a comprehensive A/B testing framework specifically designed for educational institutions seeking to optimize their applicant conversion funnel. The system measures the effectiveness of email reminders on admissions quiz completion rates through a controlled experimental design.
