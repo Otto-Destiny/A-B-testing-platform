@@ -7,9 +7,9 @@ An advanced experimental framework for optimizing user conversion through statis
 [![Dash](https://img.shields.io/badge/Dash-2.6+-orange.svg)](https://dash.plotly.com/)
 
 Demographics tab
-![UI-Demographics Tab](screenshots/screenshot1.png)
+![UI-Demographics Tab](screenshots/Screenshot1.png)
 Experiment Tab
-![UI-Experiment Tab](screenshots/screenshot2.png)
+![UI-Experiment Tab](screenshots/Screenshot2.png)
 
 ## Overview
 
